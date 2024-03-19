@@ -1,0 +1,6 @@
+{
+    "name": "l580/course-link",
+    "require": {
+        "firebase/php-jwt": "^6.10"
+    }
+}
